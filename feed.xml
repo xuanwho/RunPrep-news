@@ -15,7 +15,7 @@ Spring is almost here, and that means more runs, more sessions, and more momentu
 
 We’ve got many excited updates planned, and the goal stays the same: help you get ready for any type of run—then keep you supported as your training builds toward your next goal.
 
-Whether you’re doing easy days, long runs, race prep, or switching things up week to week, RunPrep helps you stay prepared and stay on track.
+Whether you’re doing easy days, long runs, race prep, or switching things up week to week, RunPrep makes it easy for you to lace up and get running.
       ]]></description>
       <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
       <!-- No runprep:minAppVersion => show to everyone -->
@@ -26,11 +26,7 @@ Whether you’re doing easy days, long runs, race prep, or switching things up w
       <guid isPermaLink="false">runprep-2.6</guid>
       <title>v2.6 — Race Pace Predictor + new tools</title>
       <description><![CDATA[
-RunPrep v2.6 adds the Race Pace Predictor to help you plan pacing more confidently for your next race.
-
-New in this release:
-- Race Pace Predictor (pacing guidance based on your goals)
-- New tools to support smarter pre-run decisions
+RunPrep v2.6 adds the Race Time Predictor to help you estimate your potential more confidently for your next race. Put in as much or as little information as you want, and see what is your expected finish time for your upcoming races!
 
 More improvements are already in progress too—new tools are coming soon, and we’re excited to keep building with you.
       ]]></description>
@@ -41,9 +37,9 @@ More improvements are already in progress too—new tools are coming soon, and w
 
     <item>
       <guid isPermaLink="false">news-2026-03-10-updates-coming</guid>
-      <title>Updates are coming — here’s where we’ll share them</title>
+      <title>More updates are coming — here’s where we’ll share them</title>
       <description><![CDATA[
-Many updates are on the way, and this is the place where we’ll communicate what’s new to users.
+Many new features are on the way, and this is the place where we’ll communicate what’s new to users.
 
 Whenever we roll out new tools, improvements, or helpful updates, you’ll see them here in-app—so you never have to wonder what changed or what to look for next.
       ]]></description>
